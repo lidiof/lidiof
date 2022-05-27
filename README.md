@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lidiof
 - 👀 I’m interested in mobile and web
-- 🌱 I’m currently learning C# .NET
+- 🌱 I’m currently learning C# .NET KOTIN JAVA
 - 📫 How to reach me https://www.linkedin.com/in/lidio-felipe-864918b5/
